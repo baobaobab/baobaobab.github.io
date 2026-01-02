@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.linecorp.clovavision.vms.alpha",
+      "sha256_cert_fingerprints": [
+        "D0:B5:37:5A:02:2C:05:05:AD:4E:C3:CA:A0:0C:D2:38:6A:D6:74:6B:17:D5:C0:30:E1:14:2C:70:02:DB:2D:70"
+      ]
+    }
+  }
+]
