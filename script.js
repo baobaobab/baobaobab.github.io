@@ -5,4 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
 	button.addEventListener('click', () => {
 		message.textContent = 'Hahahaahahahaha';
 	});
+
+	document.getElementById('somethingButton').addEventListener('click', () => {
+		message.textContent = 'Click it??';
+	});
 });
